@@ -6,6 +6,13 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/89738de7-5259-4d63-868b-8c1e5242b60b" width="300px" />
 </div>
+<h2>🎓 Formação</h2>
+<ul>
+  <li><strong>Curso</strong>: Sistemas de Informação</li>
+  <li><strong>Instituição</strong>: Universidade Federal Rural da Amazônia (UFRA)</li>
+  <li><strong>Semestre Atual</strong>: 5º Semestre</li>
+</ul>
+
 <h3>🌿 Projeto de Pesquisa: Práticas Organizacionais e Redes Sociais - Amazônia e Sustentabilidade</h3>
 <ul>
   <li><strong>Descrição</strong>: O projeto investiga como empresas que atuam na Amazônia utilizam redes sociais como o Instagram para discutir práticas sustentáveis. A pesquisa visa entender como essas organizações usam termos como "Amazônia" e "Sustentabilidade" para moldar a percepção pública, e se suas ações correspondem a um compromisso real com a preservação ambiental.</li>
@@ -16,13 +23,6 @@
       <li><strong>Plataformas Analisadas</strong>: Instagram</li>
     </ul>
   </li>
-</ul>
-
-<h2>🎓 Formação</h2>
-<ul>
-  <li><strong>Curso</strong>: Sistemas de Informação</li>
-  <li><strong>Instituição</strong>: Universidade Federal Rural da Amazônia (UFRA)</li>
-  <li><strong>Semestre Atual</strong>: 5º Semestre</li>
 </ul>
 
 <h2>💡 Interesses Acadêmicos</h2>
