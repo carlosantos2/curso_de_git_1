@@ -4,7 +4,7 @@
 ## Sobre Mim
 Sou um estudante de **Sistemas de Informação** na **Universidade Federal Rural da Amazônia (UFRA)**, atualmente no **5º semestre**. Tenho 22 anos e moro em **Belém do Pará**. Meus estudos e projetos são focados em tecnologia e sustentabilidade e em como essas duas áreas podem se complementar, buscando soluções inovadoras e sustentáveis para o futuro.
 
-### 🎯 Projeto de Pesquisa: Práticas Organizacionais e Redes Sociais - Amazônia e Sustentabilidade
+### 🌿 Projeto de Pesquisa: Práticas Organizacionais e Redes Sociais - Amazônia e Sustentabilidade
 - **Descrição**: O projeto investiga como empresas que atuam na Amazônia utilizam redes sociais como o Instagram para discutir práticas sustentáveis. A pesquisa visa entender como essas organizações usam termos como "Amazônia" e "Sustentabilidade" para moldar a percepção pública, e se suas ações correspondem a um compromisso real com a preservação ambiental.
 - **Tecnologias Utilizadas**: 
   - **Ferramentas**: NVIVO, Excel
